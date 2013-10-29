@@ -1,0 +1,8 @@
+Description:
+    Setup urnium js assets on your application
+
+Example:
+  rails g uranium:install
+  
+  This will replace the default application assets:
+    /app/assets/javascripts/application.js
