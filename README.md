@@ -1,22 +1,22 @@
 uranium-rails
 =============
 
-= Uranium implementation for Ruby on Rails
+Uranium implementation for Ruby on Rails
 
 This adds {Uranium}[http://uranium.io/] support to your Rails application.
 
-== Installation
+Installation
 
-=== As a gem
+As a gem
   gem install uranium-rails
 
 
-== Configuration
+Configuration
 
 rails g uranium-rails:install
 
 
-== Note on Patches/Pull Requests
+Note on Patches/Pull Requests
 
 * Fork the project.
 * Make your feature addition or bug fix.
@@ -29,11 +29,11 @@ rails g uranium-rails:install
 
 
 
-==Author
+Author
 
 {Sapna Jadon}
 
 
-== Copyright
+Copyright
 
 Copyright (c) 2013
