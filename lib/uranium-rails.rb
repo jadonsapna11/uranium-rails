@@ -1,1 +1,1 @@
-require 'uranium/rails'
+require 'uranium-rails/rails'

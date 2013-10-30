@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "uranium-rails"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.author      = "Sapna Jadon"
   s.email       = "jadon.sapna11@gmail.com"
   s.summary     = "uranium-rails is rails implementation of uranium JS which is a simple, lightweight Javascript interaction library written in jQuery."

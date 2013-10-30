@@ -3,9 +3,10 @@ uranium-rails
 
 Uranium implementation for Ruby on Rails
 
-This adds {Uranium}[http://uranium.io/] support to your Rails application.
+This adds Uranium http://uranium.io/ support to your Rails application.
 
 Installation
+============
 
 As a gem
   gem install uranium-rails
@@ -13,10 +14,18 @@ As a gem
 
 Configuration
 
-rails g uranium-rails:install
+rails g uranium_rails:install
+
+Require Uranium JS (uranium.js, uranium-pretty.js) in your application.js
+
+#= require jquery
+#= require jquery_ujs
+#= require uranium
+#= require uranium-pretty
 
 
 Note on Patches/Pull Requests
+=============================
 
 * Fork the project.
 * Make your feature addition or bug fix.
@@ -30,10 +39,12 @@ Note on Patches/Pull Requests
 
 
 Author
+======
 
-{Sapna Jadon}
+Sapna Jadon
 
 
 Copyright
+=========
 
 Copyright (c) 2013
