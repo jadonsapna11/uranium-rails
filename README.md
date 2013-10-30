@@ -18,10 +18,10 @@ rails g uranium_rails:install
 
 Require Uranium JS (uranium.js, uranium-pretty.js) in your application.js
 
-//= require jquery 
-//= require jquery_ujs 
-//= require uranium 
-//= require uranium-pretty 
+//= require jquery <br>
+//= require jquery_ujs <br>
+//= require uranium <br>
+//= require uranium-pretty <br>
 
 
 Note on Patches/Pull Requests
